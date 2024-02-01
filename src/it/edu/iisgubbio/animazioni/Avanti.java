@@ -13,6 +13,7 @@ import javafx.stage.Stage;
 import javafx.util.Duration;
 
 public class Avanti extends Application{
+	// creazione degli elementi 
 	Circle pallino;
 	Button pStart = new Button("via");
 	int n=0;
