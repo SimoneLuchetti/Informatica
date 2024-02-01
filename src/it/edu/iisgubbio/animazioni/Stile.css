@@ -1,0 +1,25 @@
+#sfondoInGame{
+-fx-background-color : black;
+}
+
+#sfondoMenu{
+-fx-background-color : #FE0004;
+}
+
+#coloreStecchettePallina {
+-fx-fill : white;
+}
+
+#labelPunteggio {
+	-fx-text-fill : white;
+	-fx-font-size : 20px;
+}
+
+#lineaDiMezzo {
+	-fx-stroke : white;
+	-fx-stroke-width : 5px;
+	-fx-stroke-dash-array: 10 10;
+	-fx-stroke-dash-offset: 6;
+    -fx-stroke-line-cap: butt;
+	
+}

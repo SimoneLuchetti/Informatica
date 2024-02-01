@@ -1,0 +1,15 @@
+.text-field {
+    -fx-background-color: white;
+}
+#label-blu {
+    -fx-text-fill: white;
+}
+#gridpane-spazio {
+-fx-vgap: 10px;
+-fx-hgap: 10px;
+-fx-padding: 10px 10px 10px 10px;
+}
+
+.button {
+	
+}

@@ -1,0 +1,10 @@
+#gridpane-spazio {
+-fx-background-color: pink;
+}
+.label {
+ -fx-text-fill: magenta;
+}
+.button {
+ -fx-text-fill: white;
+-fx-background-color: purple;
+}

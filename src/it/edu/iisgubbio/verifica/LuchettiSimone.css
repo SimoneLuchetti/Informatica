@@ -1,0 +1,12 @@
+.text-field {
+    -fx-background-color: yellow;
+}
+#label-bianca {
+    -fx-text-fill: white;
+}
+#gridpane-spazio {
+-fx-vgap: 10px;
+-fx-hgap: 10px;
+-fx-padding: 10px 10px 10px 10px;
+-fx-background-color: red;
+}
